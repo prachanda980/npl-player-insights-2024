@@ -1,0 +1,6 @@
+role,players,avg_salary,highest_salary,lowest_salary
+Wicketkeeper-Batsman,3,16.67,20.00,15.00
+All-rounder,51,12.93,45.00,0.00
+Batsman,31,12.81,80.00,2.00
+Bowler,40,9.53,70.00,0.00
+Wicketkeeper,13,8.08,20.00,0.00

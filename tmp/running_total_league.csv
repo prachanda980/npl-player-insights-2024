@@ -1,0 +1,139 @@
+player,team,price_in_lakh,running_total_league
+Shikhar Dhawan,Karnali Yaks,80.00,80.00
+Rashid Khan,Kathmandu Gurkhas,70.00,150.00
+Martin Guptill,Biratnagar Kings,50.00,200.00
+James Neesham,Janakpur Bolts,45.00,245.00
+Ravi Bopara,Chitwan Rhinos,40.00,285.00
+Bas de Leede,Pokhara Avengers,35.00,320.00
+Hussain Talat,Karnali Yaks,30.00,350.00
+Ben Cutting,Lumbini Lions,30.00,380.00
+Scott Kuggeleijn,Sudurpaschim Royals,25.00,405.00
+Stephen Eskinazi,Kathmandu Gurkhas,25.00,430.00
+Sohail Tanvir,Chitwan Rhinos,25.00,455.00
+Babar Hayat,Karnali Yaks,25.00,480.00
+Michael Leask,Pokhara Avengers,25.00,505.00
+Kushal Bhurtel,Pokhara Avengers,20.00,525.00
+Kushal Malla,Chitwan Rhinos,20.00,545.00
+Marchant de Lange,Chitwan Rhinos,20.00,565.00
+Aasif Sheikh,Janakpur Bolts,20.00,585.00
+Sohaib Maqsood,Janakpur Bolts,20.00,605.00
+Sompal Kami,Karnali Yaks,20.00,625.00
+Chadwick Walton,Karnali Yaks,20.00,645.00
+Karan KC,Kathmandu Gurkhas,20.00,665.00
+Gerhard Erasmus,Kathmandu Gurkhas,20.00,685.00
+Rohit Paudel,Lumbini Lions,20.00,705.00
+Tom Moores,Lumbini Lions,20.00,725.00
+Sandeep Lamichhane,Biratnagar Kings,20.00,745.00
+Matt Critchley,Pokhara Avengers,20.00,765.00
+Dipendra Singh Airee,Sudurpaschim Royals,20.00,785.00
+Rohan Mustafa,Sudurpaschim Royals,20.00,805.00
+Saif Zaib,Sudurpaschim Royals,18.00,823.00
+Andries Gous,Pokhara Avengers,18.00,841.00
+Ben Mike,Janakpur Bolts,18.00,859.00
+Will Bosisto,Karnali Yaks,18.00,877.00
+Nathan Sowter,Kathmandu Gurkhas,18.00,895.00
+Dan Douthwaite,Kathmandu Gurkhas,15.00,910.00
+Gulshan Jha,Karnali Yaks,15.00,925.00
+Lokesh Bam,Biratnagar Kings,15.00,940.00
+Surya Tamang,Lumbini Lions,15.00,955.00
+Bibek Yadav,Lumbini Lions,15.00,970.00
+Sundeep Jora,Lumbini Lions,15.00,985.00
+Brandon McMullen,Sudurpaschim Royals,15.00,1000.00
+Pratish GC,Biratnagar Kings,15.00,1015.00
+Jan Nicol Loftie-Eaton,Chitwan Rhinos,15.00,1030.00
+Raymon Reifer,Pokhara Avengers,15.00,1045.00
+Zeeshan Maqsood,Karnali Yaks,15.00,1060.00
+Aarif Sheikh,Sudurpaschim Royals,15.00,1075.00
+Lahiru Milantha,Janakpur Bolts,15.00,1090.00
+Bhim Sharki,Kathmandu Gurkhas,15.00,1105.00
+Shahab Alam,Kathmandu Gurkhas,15.00,1120.00
+Sagar Dhakal,Pokhara Avengers,15.00,1135.00
+Scott Edwards,Biratnagar Kings,15.00,1150.00
+Aakash Chand,Pokhara Avengers,15.00,1165.00
+Unmukt Chand,Lumbini Lions,15.00,1180.00
+Anil Sah,Janakpur Bolts,15.00,1195.00
+Lalit Rajbanshi,Janakpur Bolts,15.00,1210.00
+Ramon Simmonds,Lumbini Lions,12.00,1222.00
+Basil Hameed,Chitwan Rhinos,12.00,1234.00
+Michael Levitt,Kathmandu Gurkhas,12.00,1246.00
+Anderson Phillip,Pokhara Avengers,12.00,1258.00
+Harmeet Singh,Sudurpaschim Royals,12.00,1270.00
+Chris Sole,Biratnagar Kings,12.00,1282.00
+Mohammad Mohsin,Janakpur Bolts,12.00,1294.00
+Kamal Singh Airee,Chitwan Rhinos,10.00,1304.00
+Bashir Ahmad,Biratnagar Kings,10.00,1314.00
+Rijan Dhakal,Chitwan Rhinos,10.00,1324.00
+Luc Benkenstein,Chitwan Rhinos,10.00,1334.00
+Aqib Ilyas,Biratnagar Kings,10.00,1344.00
+Saad Bin Zafar,Lumbini Lions,10.00,1354.00
+Aakash Tripathi,Janakpur Bolts,10.00,1364.00
+Dilpreet Bajwa,Sudurpaschim Royals,10.00,1374.00
+Jaykishan Kolsawala,Karnali Yaks,10.00,1384.00
+Kishore Mahato,Janakpur Bolts,10.00,1394.00
+Sharad Vesawkar,Chitwan Rhinos,10.00,1404.00
+Joshua Tromp,Janakpur Bolts,10.00,1414.00
+Hassan Eisakhil,Chitwan Rhinos,8.00,1422.00
+Bipin Rawal,Chitwan Rhinos,8.00,1430.00
+Nicholas Kirton,Biratnagar Kings,8.00,1438.00
+Dinesh Adhikari,Lumbini Lions,5.00,1443.00
+Sudip Aryal,Pokhara Avengers,5.00,1448.00
+Ismat Alam,Biratnagar Kings,5.00,1453.00
+Abinash Bohara,Sudurpaschim Royals,5.00,1458.00
+Deepak Bohara,Chitwan Rhinos,5.00,1463.00
+Amar Singh Rautela,Chitwan Rhinos,5.00,1468.00
+Dipendra Rawat,Karnali Yaks,5.00,1473.00
+Dipesh Shrestha,Chitwan Rhinos,5.00,1478.00
+Dipak Bohara,Biratnagar Kings,5.00,1483.00
+Santosh Karki,Chitwan Rhinos,5.00,1488.00
+Shubh Kansakar,Janakpur Bolts,5.00,1493.00
+Sher Malla,Janakpur Bolts,5.00,1498.00
+Hemant Dhami,Janakpur Bolts,5.00,1503.00
+Anil Kharel,Biratnagar Kings,5.00,1508.00
+Jitendra Kumar Mukhiya,Biratnagar Kings,5.00,1513.00
+Rajesh Pulami Magar,Biratnagar Kings,5.00,1518.00
+Tilak Bhandari,Lumbini Lions,3.00,1521.00
+Trit Raj Das,Pokhara Avengers,3.00,1524.00
+Ranjeet Kumar,Chitwan Rhinos,3.00,1527.00
+Pratik Shrestha,Kathmandu Gurkhas,3.00,1530.00
+Bhuvan Karki,Karnali Yaks,3.00,1533.00
+Khadak Bohora,Sudurpaschim Royals,3.00,1536.00
+Subash Bhandari,Biratnagar Kings,2.50,1538.50
+Arniko Prasad Yadav,Janakpur Bolts,2.25,1540.75
+Gautam KC,Chitwan Rhinos,2.00,1542.75
+Naresh Budhayer,Sudurpaschim Royals,2.00,1544.75
+Basant Khatri,Sudurpaschim Royals,2.00,1546.75
+Mrinal Gurung,Biratnagar Kings,2.00,1548.75
+Arjun Kumal,Sudurpaschim Royals,2.00,1550.75
+Naren Saud,Sudurpaschim Royals,2.00,1552.75
+Dev Khanal,Karnali Yaks,2.00,1554.75
+Bipin Sharma,Karnali Yaks,2.00,1556.75
+Unish Singh Thakuri,Karnali Yaks,2.00,1558.75
+Nandan Yadav,Karnali Yaks,2.00,1560.75
+Naren Bhatta,Biratnagar Kings,2.00,1562.75
+Amit Shrestha,Sudurpaschim Royals,2.00,1564.75
+Shankar Rana,Kathmandu Gurkhas,2.00,1566.75
+Raju Rijal,Kathmandu Gurkhas,2.00,1568.75
+Bibek KC,Kathmandu Gurkhas,2.00,1570.75
+Krishna Karki,Kathmandu Gurkhas,2.00,1572.75
+Krish Karki,Kathmandu Gurkhas,2.00,1574.75
+Abhishesh Gautam,Lumbini Lions,2.00,1576.75
+Ashutosh Ghiraiya,Lumbini Lions,2.00,1578.75
+Durgesh Gupta,Lumbini Lions,2.00,1580.75
+Aarif Khan,Lumbini Lions,2.00,1582.75
+Sunam Gautam,Pokhara Avengers,2.00,1584.75
+Narayan Joshi,Pokhara Avengers,2.00,1586.75
+Dinesh Kharel,Pokhara Avengers,2.00,1588.75
+Bipin Khatri,Pokhara Avengers,2.00,1590.75
+Kiran Thagunna,Pokhara Avengers,2.00,1592.75
+Binod Bhandari,Sudurpaschim Royals,0.00,1592.75
+Amrit Gurung,Pokhara Avengers,0.00,1592.75
+Arjun Saud,Lumbini Lions,0.00,1592.75
+Bikash Aagri,Lumbini Lions,0.00,1592.75
+Ishan Pandey,Sudurpaschim Royals,0.00,1592.75
+Dipesh Kandel,Kathmandu Gurkhas,0.00,1592.75
+Bhoj Raj Bhatta,Sudurpaschim Royals,0.00,1592.75
+Mousom Dhakal,Karnali Yaks,0.00,1592.75
+Arjun Gharti,Karnali Yaks,0.00,1592.75
+Deepak Dumre,Karnali Yaks,0.00,1592.75
+Tul Bahadur Thapa Magar,Janakpur Bolts,0.00,1592.75
+Rupesh K Singh,Janakpur Bolts,0.00,1592.75
