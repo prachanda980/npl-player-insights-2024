@@ -27,7 +27,12 @@
    - Role contribution percentage for the league
    - Role contribution percentage inside each team
 
----
+## Disclaimer / Notes
+
+- Some player data, especially **prices, transfers, or overseas acquisitions**, have been added **based on rumors and estimated reports**.
+- While the analysis reflects patterns in the NPL 2024 season, **not all figures are official**.
+- This repository is intended for **data analysis and visualization practice**, and not for official statistics.
+
 
 ## 🛠 Technologies Used
 
