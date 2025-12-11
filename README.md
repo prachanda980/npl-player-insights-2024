@@ -41,13 +41,14 @@
 
 The `npl_analysis_visualization.py` script reads all CSV exports and generates plots:
 
-- **Domestic vs Overseas Players** (`type_players.png`)
-- **Total Spend per Team** (`team_total_spend.png`)
-- **Average Spend per Player by Team** (`team_avg_per_player.png`)
-- **Top 20 Most Expensive Players** (`top20_players.png`)
-- **Average Salary by Role** (`role_salary.png`)
-- **Salary Tier Distribution** (`salary_tier_distribution.png`)
-- **Player Contribution to Team Salary** (`player_team_contribution.png`)
+![Domestic vs Overseas Players](plots/type_players.png)
+![Total Spend per Team](plots/team_total_spend.png)
+![Average Spend per Player by Team](plots/team_avg_per_player.png)
+![Top 20 Most Expensive Players](plots/top20_players.png)
+![Average Salary by Role](plots/role_salary.png)
+![Salary Tier Distribution](plots/salary_tier_distribution.png)
+![Player Contribution to Team Salary](plots/player_team_contribution.png)
+
 
 All plots are saved in the `plots/` directory.
 
